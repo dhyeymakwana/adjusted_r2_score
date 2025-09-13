@@ -20,3 +20,9 @@ Install the package from the Python Package Index (PyPI) using pip:
 
 ```bash
 pip install adjusted_r2_score
+---
+How to Use
+The library is straightforward to use. Import the function, provide your data, and get the score.
+
+
+
